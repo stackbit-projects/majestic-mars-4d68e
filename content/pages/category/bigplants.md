@@ -1,5 +1,5 @@
 ---
-title: Produits Corses
+title: Miel
 layout: category
 order: 1
 ---
