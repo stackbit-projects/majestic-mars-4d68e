@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Produits Corses
 layout: category
 order: 1
 ---
